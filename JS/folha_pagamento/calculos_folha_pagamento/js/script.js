@@ -69,5 +69,3 @@ irrf.innerHTML = 0;
 totalRefeicao.innerHTML = Number(0);
 
 
-
-
